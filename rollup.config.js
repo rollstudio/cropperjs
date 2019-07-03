@@ -19,23 +19,23 @@ module.exports = {
     {
       banner,
       name,
-      file: `dist/${pkg.name}.js`,
+      file: 'dist/cropper.js',
       format: 'umd',
     },
     {
       banner,
-      file: `dist/${pkg.name}.common.js`,
+      file: 'dist/cropper.common.js',
       format: 'cjs',
     },
     {
       banner,
-      file: `dist/${pkg.name}.esm.js`,
+      file: 'dist/cropper.esm.js',
       format: 'esm',
     },
     {
       banner,
       name,
-      file: `docs/js/${pkg.name}.js`,
+      file: 'docs/js/cropper.js',
       format: 'umd',
     },
   ],

@@ -1,17 +1,17 @@
 /*!
- * Cropper.js v1.5.2
+ * RollstudioCropper.js v1.5.12
  * https://fengyuanchen.github.io/cropperjs
  *
  * Copyright 2015-present Chen Fengyuan
  * Released under the MIT license
  *
- * Date: 2019-06-30T06:01:05.296Z
+ * Date: 2019-07-03T11:06:07.088Z
  */
 
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
   typeof define === 'function' && define.amd ? define(factory) :
-  (global = global || self, global.Cropper = factory());
+  (global = global || self, global.RollstudioCropper = factory());
 }(this, function () { 'use strict';
 
   function _typeof(obj) {

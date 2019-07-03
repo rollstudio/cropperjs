@@ -1,11 +1,11 @@
 /*!
- * Cropper.js v1.5.2
+ * RollstudioCropper.js v1.5.12
  * https://fengyuanchen.github.io/cropperjs
  *
  * Copyright 2015-present Chen Fengyuan
  * Released under the MIT license
  *
- * Date: 2019-06-30T06:01:05.296Z
+ * Date: 2019-07-03T11:06:07.088Z
  */
 
 'use strict';

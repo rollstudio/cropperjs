@@ -1,11 +1,11 @@
 /*!
- * RollstudioCropper.js v1.5.12
+ * RollstudioCropper.js v1.5.4
  * https://fengyuanchen.github.io/cropperjs
  *
  * Copyright 2015-present Chen Fengyuan
  * Released under the MIT license
  *
- * Date: 2019-07-03T11:06:07.088Z
+ * Date: 2019-07-03T10:39:21.002Z
  */
 
 (function (global, factory) {
@@ -1163,6 +1163,7 @@
           options = this.options,
           container = this.container,
           cropper = this.cropper;
+      console.log('yo ppeople initContainer');
       addClass(cropper, CLASS_HIDDEN);
       removeClass(element, CLASS_HIDDEN);
       var containerData = {
